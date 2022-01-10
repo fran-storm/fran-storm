@@ -1,1 +1,2 @@
-Decidi mudar de objetivo profissional e ir da área de Ciências Sociais pra Ciências da Computação ao tentar aprender via vídeos no YouTube e cursos gratuitos minha primeira linguagem de programação: Python.
+• Interessada em aprender mais rápido
+• Projeto de aprender a programar em 1 ano
